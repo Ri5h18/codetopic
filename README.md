@@ -47,4 +47,4 @@ Add environment variables via .env.local.
 
 Configure API routes in app/api.
 
-Extend styles with CSS modules, Tailwind, or your preferred setup
+Extend styles with CSS modules, Tailwind, or your preferred setup   
